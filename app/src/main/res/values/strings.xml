@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FBLoginVarification</string>
+
+    <string name="facebook_app_id">545002172624143</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">630307786e5050a0a78fbd850d884ab9</string>
+    <string name="ak_login_protocol_scheme">ak+"545002172624143"</string>
+</resources>
